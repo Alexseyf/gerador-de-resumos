@@ -1,0 +1,7 @@
+libpangoft2-1.0-0
+libpango-1.0-0
+libcairo2
+libxml2
+libxslt1-dev
+libffi-dev
+ffmpeg

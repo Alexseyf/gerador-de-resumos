@@ -5,3 +5,4 @@ libxml2
 libxslt1-dev
 libffi-dev
 ffmpeg
+python-dotenv>=1.0.0

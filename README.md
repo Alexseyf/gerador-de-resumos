@@ -8,7 +8,7 @@
 
 O **Gerador de Resumos** é um assistente de IA especializado em auxiliar na interpretação rápida de grandes volumes de texto. O sistema permite processar textos colados diretamente ou extraídos de arquivos PDF, utilizando comandos em texto ou voz para gerar resumos, extrair palavras-chave e realizar outras análises.
 
-O diferencial deste projeto é a implementação de um **Agente Local (`ResumoAgent`)**, que atua como um especialista dedicado, processando as solicitações com instruções de sistema precisas para garantir fidelidade e qualidade nas respostas, utilizando a API do Google Gemini diretamente.
+O projetoa implementa um **Agente Local (`ResumoAgent`)**, que atua como um especialista dedicado, processando as solicitações com instruções de sistema precisas para garantir fidelidade e qualidade nas respostas, utilizando a API do Google Gemini diretamente.
 
 ### Funcionalidades Principais
 
